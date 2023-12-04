@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/aBDQZWX5)
 # Projekt - Next.js aplikace
 
+Odkaz na repozitář: https://github.com/MiroslavKosek/next-js.git
+
 ## Zadání
 - Aplikace používá framework Next.js
 - Aplikace bude mít databázi která bude uvnitř projektu spravovaná přes Prismu
